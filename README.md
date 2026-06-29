@@ -25,6 +25,7 @@ Rather than treating programming as memorizing APIs, I enjoy understanding the l
 ## ● Current Projects
 
 ### ○ BIRO-AI
+> AI/ML/LLM
 
 A locally hosted AI assistant powered by open-source language models.
 
@@ -45,9 +46,19 @@ Future roadmap:
 
 ---
 
-### ○ Networking in C
+### ○ VIRA
+> System Exploitation
 
-Exploring networking from the operating system upward.
+A hands on Ready-to-use **Networking** and **offensive OSINT** automated reconnaissance Tool Powered by *ML* (Core Internals)
+
+Current features include:
+
+- Networking Exploitation
+- Payload Enumeration
+- Reverse Shell Automation
+- Reconnaissance & OSINT evaluation
+
+> "This isn't just metasploit, this is a system."
 
 ---
 
