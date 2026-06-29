@@ -71,11 +71,13 @@ Currently studying:
 
 ---
 
-## ● Languages ( ▪︎ - means rating)
+## ● Languages
 
-- Python ▪︎▪︎▪︎▪︎▪︎
-- C ▪︎▪︎▪︎
-- Bash ▪︎▪︎▪︎
+- Python
+- C
+- Bash
+- JavaScript
+- Java
 
 ---
 
